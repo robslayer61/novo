@@ -1,0 +1,8 @@
+##!/bin/bash
+
+apt-get install ninvaders
+apt-get install moo
+
+cd /etc/network/interfaces
+vim /etc/network/interfaces
+
